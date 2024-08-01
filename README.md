@@ -23,7 +23,7 @@ The primary goal of this project is to:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/harshkalra-ai/GCP_social_jam.git
+   git clone https://github.com/moogleLabsDev/GCP_social_jam.git
    cd GCP_social_jam
    ```
 
